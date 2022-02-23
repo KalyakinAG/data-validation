@@ -23,6 +23,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <vendor>KalyakinAG</vendor>
+  <version>1.0.1</version>
   <subsystems>Subsystem.РаботаСДаннымиЗаполнения</subsystems>
   <commonModules>CommonModule.Общий</commonModules>
   <commonModules>CommonModule.ОбщийКлиентСервер</commonModules>

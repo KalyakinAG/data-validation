@@ -1,3 +1,8 @@
+//  Подсистема "Работа с данными заполнения"
+//	Автор: Калякин Андрей Г.
+//  https://github.com/KalyakinAG/work-with-filling-data
+//  https://infostart.ru/public/841956/
+
 // Добавляет строку к имеющимся
 //
 // Параметры:
